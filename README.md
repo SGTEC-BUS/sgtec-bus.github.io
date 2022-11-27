@@ -1,1 +1,1 @@
-# sgtec-bus.github.io
+# Source code for SGTEC's website
